@@ -1,0 +1,11 @@
+@import "tailwindcss";
+@plugin "daisyui";
+ @plugin "daisyui" {
+  themes: light --default, dark --prefersdark, garden, bumblebee, autumn, cupcake;
+ }
+
+ @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;600;700&display=swap');
+
+body {
+  font-family: 'Poppins', sans-serif;
+}

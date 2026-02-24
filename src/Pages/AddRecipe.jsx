@@ -115,7 +115,7 @@ const AddRecipe = () => {
                 />
               </div>
               <div className="form-control">
-                <label className="label">Choose Recipe Image(Optioanl)</label>
+                <label className="label">Image(Optioanl)</label>
                 <input
                   type="file"
                   name="image"

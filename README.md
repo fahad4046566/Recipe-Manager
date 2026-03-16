@@ -23,7 +23,7 @@ A fully responsive CRUD Recipe Manager built with React and Context API.
 
 ## 📦 Deployment
 
-Live Demo: (yahan apna Vercel link daal do)
+Live Demo: https://recipe-manager-3d7q.vercel.app/
 
 ## 📚 What I Learned
 
@@ -32,6 +32,7 @@ Live Demo: (yahan apna Vercel link daal do)
 - Data persistence with localStorage
 - Responsive UI design
 - Scope control in project development
+
 
 ---
 
